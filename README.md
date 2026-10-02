@@ -1,86 +1,68 @@
 <div align="center">
 
-  <!-- NEOCLASSICAL CELESTIAL BANNER -->
-  <img src="https://github.com/user-attachments/assets/4cea526b-53a2-4fff-ac7d-ef2876f6704b" width="100%" alt="Velocity - Marble and Butterflies" style="border-radius: 12px;" />
-  
-  <br/><br/>
-  
-  <!-- NATIVE HTML NAME (ZERO DOWNTIME) WITH CELESTIAL ACCENTS -->
-  <h1 style="color: #d4af37; font-family: 'Times New Roman', serif; font-size: 3.2em; font-weight: normal; margin-bottom: 0;">
-    ✦ Sourav ✦
-  </h1>
-  
-  <!-- ANIMATED TYPOGRAPHY LOOP (REACTIVE BIO) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=4000&pause=2000&color=e2e8f0&center=true&vCenter=true&width=800&height=50&lines=An+AI%2FML+Engineer+merging+deterministic+systems+with+probabilistic+intelligence;Architecting+autonomous+agents,+edge-native+runtimes,+and+hybrid+RAG+pipelines;Navigating+the+intersection+of+advanced+mathematics+%26+machine+learning" alt="Animated Bio" />
-  
-  <!-- ACTION ORBITS (BADGES) -->
-  <br/>
-  <a href="https://velocity07.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Enter_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=d4af37" alt="Explore Portfolio" />
-  </a>
-  <a href="https://github.com/Velocity07">
-    <img src="https://img.shields.io/badge/Open_Source-0a0a0a?style=for-the-badge&logo=github&logoColor=e2e8f0" alt="Open Source" />
-  </a>
+<!-- HERO ANIMATION LINKED FROM REPO -->
+<img src="./hero.svg" width="100%" alt="Celestial Hero Banner" />
 
-  <br/><br/><br/>
-  
-  <!-- ANIMATED TWINKLING PLASMA DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=12&animation=twinkling" width="70%" alt="Twinkling Stars Divider" />
-  
-  <!-- SECTION: CORE INFRASTRUCTURE -->
-  <h2 style="color: #d4af37; font-family: 'Times New Roman', serif; font-weight: normal; margin-top: 10px;">✧ Core Constellation ✧</h2>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,tailwind,fastapi,linux,pytorch,tensorflow,scikitlearn,docker,git,bash,aws,gcp,azure,postgres,mongodb&perline=10&theme=dark" height="70" alt="3D Tech Stack Icons" />
+<br/><br/>
 
-  <br/><br/><br/>
+<!-- ELEGANT NATIVE NAMEPLATE -->
+<h1 style="color: #FCD34D; font-family: 'Cinzel', 'Times New Roman', serif; font-size: 3.5em; letter-spacing: 2px; font-weight: normal; margin-bottom: 5px;">
+  Sourav Mondal
+</h1>
 
-  <!-- ANIMATED TWINKLING PLASMA DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=12&animation=twinkling" width="70%" alt="Twinkling Stars Divider" />
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=400&size=16&duration=4200&pause=1500&color=D4A054;E8590C;A01414&center=true&vCenter=true&width=820&height=55&lines=An+AI%2FML+engineer+who+builds+with+mathematics+as+a+material;Teaching+machines+to+reason+where+rules+run+out;Autonomous+agents+%C2%B7+edge-native+runtimes+%C2%B7+hybrid+RAG+pipelines" alt="tagline" />
 
-  <!-- SECTION: GEN AI ECOSYSTEM -->
-  <h2 style="color: #d4af37; font-family: 'Times New Roman', serif; font-weight: normal; margin-top: 10px;">✧ The Generative Nebula ✧</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-0a0a0a?style=for-the-badge&logo=diagram-project&logoColor=d4af37" alt="LangGraph" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Ollama-0a0a0a?style=for-the-badge&logo=ollama&logoColor=d4af37" alt="Ollama" />
+<br/>
 
-  <br/><br/><br/>
+<a href="https://velocity07.github.io/Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/⌖_ENTER_ORBIT-1A0404?style=for-the-badge&logo=vercel&logoColor=D4A054" alt="Portfolio" />
+</a>
+<a href="https://github.com/Velocity07" target="_blank">
+  <img src="https://img.shields.io/badge/⌖_OPEN_SOURCE-1A0404?style=for-the-badge&logo=github&logoColor=E8590C" alt="GitHub" />
+</a>
 
-  <!-- ANIMATED TWINKLING PLASMA DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=12&animation=twinkling" width="70%" alt="Twinkling Stars Divider" />
+<br/><br/><br/>
 
-  <!-- SECTION: FLAGSHIP SYSTEMS -->
-  <h2 style="color: #d4af37; font-family: 'Times New Roman', serif; font-weight: normal; margin-top: 10px;">✧ Orbital Architecture ✧</h2>
-  <br/>
-  <a href="https://github.com/Velocity07/OniraRAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=OniraRAG&bg_color=0d1117&hide_border=true&title_color=d4af37&text_color=94a3b8&icon_color=d4af37&show_icons=true" width="48%" alt="OniraRAG Pin" />
-  </a>
-  <a href="https://github.com/Velocity07/OrbitMCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=OrbitMCP&bg_color=0d1117&hide_border=true&title_color=d4af37&text_color=94a3b8&icon_color=d4af37&show_icons=true" width="48%" alt="OrbitMCP Pin" />
-  </a>
-  <br/>
-  <a href="https://github.com/Velocity07/CropMeta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=CropMeta&bg_color=0d1117&hide_border=true&title_color=d4af37&text_color=94a3b8&icon_color=d4af37&show_icons=true" width="48%" alt="CropMeta Pin" />
-  </a>
-  <a href="https://github.com/Velocity07/Harpa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=Harpa&bg_color=0d1117&hide_border=true&title_color=d4af37&text_color=94a3b8&icon_color=d4af37&show_icons=true" width="48%" alt="Harpa Pin" />
-  </a>
+<!-- SECTION: THE INSTRUMENTS -->
+<h2 style="color: #E8590C; font-family: 'Cinzel', 'Times New Roman', serif; letter-spacing: 6px; font-weight: normal;">✦ THE INSTRUMENTS ✦</h2>
+<p style="color: #94A3B8; font-family: 'Lora', Georgia, serif; font-style: italic;">every principle is executed through these</p>
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,tailwind,fastapi,linux,pytorch,tensorflow,scikitlearn,docker,git,bash,aws,gcp,azure,postgres,mongodb&perline=10&theme=dark" height="72" alt="Tech stack" />
 
-  <br/><br/><br/>
+<br/><br/><br/>
 
-  <!-- ANIMATED TWINKLING PLASMA DIVIDER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:d4af37,100:000000&height=12&animation=twinkling" width="70%" alt="Twinkling Stars Divider" />
+<!-- SECTION: THE GENERATIVE NEBULA -->
+<h2 style="color: #A01414; font-family: 'Cinzel', 'Times New Roman', serif; letter-spacing: 6px; font-weight: normal;">✦ THE GENERATIVE NEBULA ✦</h2>
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-1A0404?style=for-the-badge&logo=huggingface&logoColor=D4A054" />
+<img src="https://img.shields.io/badge/LangChain-1A0404?style=for-the-badge&logo=langchain&logoColor=E8590C" />
+<img src="https://img.shields.io/badge/LangGraph-1A0404?style=for-the-badge&logo=diagram-project&logoColor=A01414" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-1A0404?style=for-the-badge&logo=pandas&logoColor=E8590C" />
+<img src="https://img.shields.io/badge/NumPy-1A0404?style=for-the-badge&logo=numpy&logoColor=D4A054" />
+<img src="https://img.shields.io/badge/Ollama-1A0404?style=for-the-badge&logo=ollama&logoColor=A01414" />
 
-  <!-- SECTION: TELEMETRY -->
-  <h2 style="color: #d4af37; font-family: 'Times New Roman', serif; font-weight: normal; margin-top: 10px;">✧ Celestial Telemetry ✧</h2>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Velocity07&show_icons=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=94a3b8&hide_border=true&rank_icon=github" width="48%" alt="GitHub Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velocity07&layout=compact&bg_color=0d1117&title_color=d4af37&text_color=94a3b8&hide_border=true" width="48%" alt="Top Languages Metrics" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velocity07&theme=dracula&hide_border=true&background=0d1117&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideNums=e2e8f0&sideLabels=94a3b8&dates=94a3b8" width="100%" alt="Contribution Streak" />
+<br/><br/><br/>
+
+<!-- SECTION: THE CONSTELLATIONS -->
+<h2 style="color: #D4A054; font-family: 'Cinzel', 'Times New Roman', serif; letter-spacing: 6px; font-weight: normal;">✦ THE CONSTELLATIONS ✦</h2>
+<br/>
+<a href="https://github.com/Velocity07/OniraRAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=OniraRAG&bg_color=1A0404&hide_border=true&title_color=E8590C&text_color=E8E0D0&icon_color=D4A054" width="48%" alt="OniraRAG" />
+</a>
+<a href="https://github.com/Velocity07/OrbitMCP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=OrbitMCP&bg_color=1A0404&hide_border=true&title_color=E8590C&text_color=E8E0D0&icon_color=D4A054" width="48%" alt="OrbitMCP" />
+</a>
+<br/>
+<a href="https://github.com/Velocity07/CropMeta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=CropMeta&bg_color=1A0404&hide_border=true&title_color=A01414&text_color=E8E0D0&icon_color=D4A054" width="48%" alt="CropMeta" />
+</a>
+<a href="https://github.com/Velocity07/Harpa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Velocity07&repo=Harpa&bg_color=1A0404&hide_border=true&title_color=A01414&text_color=E8E0D0&icon_color=D4A054" width="48%" alt="Harpa" />
+</a>
+
+<br/><br/><br/>
+
+<!-- FINALE: ASTROLABE ANIMATION LINKED FROM REPO -->
+<img src="./astrolabe.svg" width="100%" alt="Celestial Astrolabe" />
 
 </div>
