@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- HERO ANIMATION LINKED FROM REPO -->
-<img src="./hero.svg" width="100%" alt="Celestial Hero Banner" />
+<!-- HERO IMAGE RESTORED -->
+<img src="https://github.com/user-attachments/assets/4cea526b-53a2-4fff-ac7d-ef2876f6704b" width="100%" alt="Velocity - Marble and Butterflies" style="border-radius: 12px;" />
 
 <br/><br/>
 
-<!-- ELEGANT NATIVE NAMEPLATE -->
-<h1 style="color: #FCD34D; font-family: 'Cinzel', 'Times New Roman', serif; font-size: 3.5em; letter-spacing: 2px; font-weight: normal; margin-bottom: 5px;">
-  Sourav Mondal
-</h1>
+<!-- ELEGANT NATIVE NAMEPLATE & TYPOGRAPHY -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=55&pause=1000&color=FCD34D&center=true&vCenter=true&width=800&height=80&lines=Sourav+Mondal" alt="Sourav Mondal" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=400&size=16&duration=4200&pause=1500&color=D4A054;E8590C;A01414&center=true&vCenter=true&width=820&height=55&lines=An+AI%2FML+engineer+who+builds+with+mathematics+as+a+material;Teaching+machines+to+reason+where+rules+run+out;Autonomous+agents+%C2%B7+edge-native+runtimes+%C2%B7+hybrid+RAG+pipelines" alt="tagline" />
 
