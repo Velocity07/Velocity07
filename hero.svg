@@ -1,0 +1,50 @@
+<svg viewBox="0 0 1200 600" width="100%" xmlns="http://www.w3.org/2000/svg" style="border-radius: 14px; display: block;">
+  <defs>
+    <clipPath id="heroClip"><rect width="1200" height="600" rx="14"/></clipPath>
+    <radialGradient id="vigN" cx="50%" cy="50%" r="74%">
+      <stop offset="52%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050014" stop-opacity="0.95"/>
+    </radialGradient>
+    <linearGradient id="fadeBottomN" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="55%"  stop-color="#050014" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050014" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="fireGlowBigN" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#heroClip)">
+    <image href="https://github.com/user-attachments/assets/4cea526b-53a2-4fff-ac7d-ef2876f6704b" x="0" y="0" width="1200" height="600" preserveAspectRatio="xMidYMid slice"/>
+    <rect width="1200" height="600" fill="url(#vigN)"/>
+    <rect width="1200" height="600" fill="url(#fadeBottomN)"/>
+
+    <g>
+      <animateMotion dur="26s" repeatCount="indefinite" path="M140,470 C260,380 380,300 520,320 C660,340 760,420 900,360"/>
+      <circle r="18" fill="#FDE047" opacity="0.18" filter="url(#fireGlowBigN)">
+        <animate attributeName="opacity" values="0.05;0.4;0.05" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="5" fill="#FEF3C7">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animateMotion dur="19s" begin="1.5s" repeatCount="indefinite" path="M980,180 C860,140 720,220 620,180 C520,140 420,220 300,160"/>
+      <circle r="14" fill="#FDE047" opacity="0.2" filter="url(#fireGlowBigN)">
+        <animate attributeName="opacity" values="0.03;0.35;0.03" dur="1.7s" begin="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" fill="#FEF3C7">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="1.7s" begin="1.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <animateMotion dur="30s" begin="5s" repeatCount="indefinite" path="M1020,420 C880,460 780,380 640,440 C500,500 400,420 260,480"/>
+      <circle r="11" fill="#FDE047" opacity="0.12" filter="url(#fireGlowBigN)">
+        <animate attributeName="opacity" values="0.02;0.25;0.02" dur="3.6s" begin="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3.2" fill="#FEF3C7">
+        <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
